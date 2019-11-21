@@ -1,4 +1,4 @@
-# 一些关于机器学习优化函数的练习
+zd # 一些关于机器学习优化函数的练习
 * p1: 最基本的梯度下降法：gradient descent
 * p2: 原始 SGD方法：stochastic gradient descent
 * p3: minibatch-SGD方法
